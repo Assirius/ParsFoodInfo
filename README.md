@@ -12,13 +12,13 @@ pip install venv
 1. Перейдите в корневую папку проекта.
 
 2. Активируйте виртуальное окружение venv следующей командой:
-source venv/bin/activate
+**source venv/bin/activate**
 
 или для Windows:
-venv\Scripts\activate
+**venv\Scripts\activate**
 
 3. Установите зависимости, указанные в файле requirements.txt, выполнив следующую команду:
-pip install -r requirements.txt
+**pip install -r requirements.txt**
 
 ### Заполнение .env
 
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ### Запуск скрипта
 
 1. В корневой папке проекта выполните команду:
-python script.py
+**python script.py**
 
 Скрипт будет запущен и начнет парсинг веб-сайта для получения информации о продуктах.
 
