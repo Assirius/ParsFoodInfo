@@ -1,0 +1,10 @@
+.env
+.idea
+
+index.html
+data/
+
+.mypy_cache/
+.vscode/
+venv/
+__pycache__/
